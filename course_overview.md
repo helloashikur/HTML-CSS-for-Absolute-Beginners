@@ -1,6 +1,6 @@
 Course:- HTML & CSS for Absolute Beginners
-Class:- HTML
-#1- HTML & CSS for Absolute Beginners: Introduction
+HTML Class:- 
+#1- HTML & CSS for Absolute Beginners: Setup Development Enveronment 
 #2- HTML & CSS for Absolute Beginners: What is HTML?
 #3- HTML & CSS for Absolute Beginners: Root folder & your first HTML file
 #4- HTML & CSS for Absolute Beginners: DOCTYPE, head, and body
@@ -17,7 +17,7 @@ Class:- HTML
 #14- HTML & CSS for Absolute Beginners: Creating links to other pages
 #15- HTML & CSS for Absolute Beginners: Images
 
-Class:- CSS
+CSS Class:-
 #16- 
 #17-
 #18-
